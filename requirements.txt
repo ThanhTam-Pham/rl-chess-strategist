@@ -1,0 +1,5 @@
+pygame
+python-chess
+cairosvg
+numpy
+json5>=0.9.0
